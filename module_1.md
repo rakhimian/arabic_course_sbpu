@@ -30,3 +30,6 @@
 
 - [Презентация к видео](/assets/presentations/1.4.pdf)
 - [Прописи (слова)](/assets/copybooks/1.3.pdf)
+
+## 1.5. Фонетические упражнения
+- [Презентация](/assets/presentations/1.5.pdf)
